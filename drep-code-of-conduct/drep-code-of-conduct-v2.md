@@ -30,7 +30,6 @@ Hence, this document is not intended to bind nor be a completed and unique guide
 |  2) Identity information (if possible, use DIDs, issue VCs, and selectively                   | it is generally considered not “valid”.)                                                    |
 |  disclose information that you feel is important) for disclosure depending                    | 2) One account for the platform most active online.                                         |
 |  on their risk tolerance                                                                      |                                                                                             |
-|                                                                                               |                                                                                             |
 | **Interests and Alliances**                                                                   |                                                                                             |
 | 1) Interested organizations and voting policies for them and                                  | 1) At a minimum, if you or your relatives receive income                                    |
 | 2) other organizations that influence voting behavior.                                        | (including other financial relationships such as debts) from an entity in the Cardano       |
@@ -39,13 +38,11 @@ Hence, this document is not intended to bind nor be a completed and unique guide
 | of team or projects.                                                                          | to that organization                                                                        |
 | About 2), Lobbying rules, the DRep's role in that organization, how it may influence the      |                                                                                             |
 | DRep's voting behavior, should also be disclosed.                                             |                                                                                             |
-|                                                                                               |                                                                                             |
 | **Voting process**                                                                            | 1) Policy on Voting coverage (In other words, your criteria for abstaining)                 |
 | The voting behavior rules are open to the public, and it can be verified that voting is       | 2) Policy on Voting Decision disclosures                                                    |
 | not done arbitrarily.                                                                         | ( This includes the application of the Constitution, the use of experts,                    |
 | 1) Policy on Voting coverage (In other words, your criteria for abstaining)                   | and the application of the minimum policies required by the Catalyst/CIP1694 platform.)     |
 | 2) Policy on Voting Decision disclosures                                                      |                                                                                             |
-
 
 |  How to update disclosure information                                                         | Minimum items required of all DReps                                                         |
 | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------|
