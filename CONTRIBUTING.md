@@ -14,3 +14,7 @@ See [`SUPPORT.md`](./SUPPORT.md) should you have any questions or need some help
 
 We maintain a [CODEOWNERS file](./CODEOWNERS) which provides information who should review a contributing PR.
 Note that you might need to get approvals from all code owners (even though GitHub doesn't give a way to enforce it).
+
+## How to Contribute
+
+todo!
