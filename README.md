@@ -12,7 +12,7 @@ Since then a CIP 1694 Governance DRep Code of Conduct was initiated in a Catalys
 At one point the Code of Conduct was a 36 page document but it was refined down to the current 1 pager of items to make it accessible for all DReps who wants to use it and for the delegators to quickly read it as well.
 
 Current state:
-With 10 physical workshops and several online workshops the code of conduct is at a state where it can be discussed even more widely through the Intersect Github repository.
+With 10 physical workshops and several online workshops the Code of Conduct is at a state where it can be discussed even more widely through the Intersect Github repository.
 Ideally we will focus on refining the Code of Conduct in terms of universal language so it is a tool anyone across the world can use (See links for current translations) as well as adhering to its principles of erring on the side of freedom, volunteering instead of enforced rules and focusing on the values we all adhere to instead of strict rules. 
 
 To further the Code of Conduct it is recommended we work together in a Github Repository.
