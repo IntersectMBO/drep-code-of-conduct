@@ -1,5 +1,7 @@
 # DRep Code of Conduct
 
+> **Disclaimer:** This repository does not seek to be *the* only DRep Code of Conduct, all are free to take and modify.
+
 ### History
 
 The original Code of Conduct.
