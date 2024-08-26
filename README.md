@@ -22,7 +22,7 @@ The Code of Conduct is at this point ready for further refinement from the wider
 
 ### Contents
 
-- [Code of Conduct v2.0](https://github.com/IntersectMBO/drep-code-of-conduct/blob/main/drep-code-of-conduct/drep-code-of-conduct-v2.md)
+- [Code of Conduct v2.0](./drep-code-of-conduct/drep-code-of-conduct-v2.md)
 
 ### Translation work
 
