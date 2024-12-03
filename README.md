@@ -22,7 +22,7 @@ The Code of Conduct is at this point ready for further refinement from the wider
 
 ### Contents
 
-- [Code of Conduct v2.0](./drep-code-of-conduct/Code%20of%20Conduct%20v2.0)
+- [Code of Conduct v2.0](./drep-code-of-conduct/drep-code-of-conduct-v2.md)
 
 ### Translation work
 
